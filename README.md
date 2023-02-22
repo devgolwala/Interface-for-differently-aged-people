@@ -1,4 +1,4 @@
-# Interface-for-differently-aged-peopleFOUNDATION : Interfaces for differently-aged population groups
+# FOUNDATION : Interfaces for differently-aged population groups
 
 Technological advancement such as Artificial Intelligence UI is where human interaction with machines occur. For AI to be used by humans, a user interface UI is required, they perform actions that the machine observes, percepts and as a result based on this observation the machine complies with humans. It is evident that age is an authorative factor in terms of accessibility, usability, psychology and User Interface design, everything and anything is accessibile on the web these days, nevertheless the "Web Content Accessibility Guidelines(WCAG) 2.0" states that Interfaces created for the general public (all age groups) should be based on their accessibility rather than usabilty.
 
